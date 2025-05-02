@@ -1,0 +1,27 @@
+[
+    {
+        "id": "001",
+        "data": "Cardiac arrhythmia",
+        "policy": "((role=Doctor) AND (department=Cardiology))"
+    },
+    {
+        "id": "002",
+        "data": "Hypertension",
+        "policy": "((role=Doctor) AND (department=GeneralMedicine))"
+    },
+    {
+        "id": "003",
+        "data": "Diabetes",
+        "policy": "((role=Nurse) AND (department=Endocrinology))"
+    },
+    {
+        "id": "004",
+        "data": "Asthma",
+        "policy": "((role=Doctor) AND (department=Pulmonology))"
+    },
+    {
+        "id": "005",
+        "data": "Osteoarthritis",
+        "policy": "((role=Physiotherapist) AND (department=Orthopedics))"
+    }
+]
